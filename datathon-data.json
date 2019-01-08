@@ -95,16 +95,32 @@
 
   "faq": [
     {
-      "question": "",
-      "answer": ""
+      "question": "What, When, And Where Is The Datathon?",
+      "answer": "The Datathon is a weekend long event that will take place from February 15th–February 17th where participants will come together in teams to analyze a complex dataset and solve an industry problem. There will be informal career fair, fun workshops, and meals provided throughout the event. The location is yet to be confirmed."
     },
     {
-      "question": "",
-      "answer": ""
+      "question": "Who Can Attend?",
+      "answer": "All UIUC undergraduate and graduate students are invited to apply. No background in data science is assumed. However, we will be having a pre-session workshop on Feb 9th from 2-4 pm in Lincoln Hall Theatre to help prepare for the Datathon."
     },
     {
-      "question": "",
-      "answer": ""
+      "question": "What Should I Bring",
+      "answer": "You should bring a laptop and a couple of copies of you resume if you plan to talk to companies in our informal career fair."
+    },
+    {
+      "question": "What If I Don’t Have A Team?",
+      "answer": "Once you have been confirmed as a participant for the Datathon, you will be able to log into compass and message other participants who are looking for teams or looking to add to their team."
+    },
+    {
+      "question": "Where Will I Be Able To Work?",
+      "answer": "You will be allowed to work anywhere on campus. However, we will be providing tables for teams to work."
+    },
+    {
+      "question": "What Is The Cost Of The Datathon?",
+      "answer": "The Datathon costs $3 for members of Illini Statistics Club and $5 for non-members. Once you have been confirmed as an applicant, we ask that you venmo us at @IlliniStatistics-Club to pay the fees."
+    },
+    {
+      "question": "How Do I Apply?",
+      "answer": "Apply Here!"
     }
   ]
 }
