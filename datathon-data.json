@@ -91,5 +91,20 @@
       "rows": 1,
       "bgColor": ""
     }
+  ],
+
+  "faq": [
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    }
   ]
 }
