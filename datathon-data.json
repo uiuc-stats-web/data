@@ -15,34 +15,34 @@
 
   "schedule": [
     {
-      "date": "Friday, Feb 15th",
+      "date": "2019-02-15",
       "items": [
-        {"name": "Check In", "timeStart": "5:30 pm", "timeEnd": "6:00 pm"},
-        {"name": "Dinner", "timeStart": "6:00 pm", "timeEnd": "7:00 pm"},
-        {"name": "Opening Ceremony", "timeStart": "7:00 pm", "timeEnd": "9:00 pm"},
-        {"name": "Kickoff and Release of Dataset", "timeStart": "9:00 pm", "timeEnd": "9:30 pm"}
+        {"name": "Check In", "timeStart": "2019-02-15T17:30:00", "timeEnd": "2019-02-15T18:00:00"},
+        {"name": "Dinner", "timeStart": "2019-02-15T18:00:00", "timeEnd": "2019-02-15T19:00:00"},
+        {"name": "Opening Ceremony", "timeStart": "2019-02-15T19:00:00", "timeEnd": "2019-02-15T21:00:00"},
+        {"name": "Kickoff and Release of Dataset", "timeStart": "2019-02-15T21:00:00", "timeEnd": "2019-02-15T21:30:00"}
       ]
     },
     {
-      "date": "Saturday, Feb 16th",
+      "date": "2019-02-16",
       "items": [
-        {"name": "Breakfast and Office Hours Start", "timeStart": "9:00 am", "timeEnd": "11:00 am"},
-        {"name": "1st Workshop", "timeStart": "11:00 am", "timeEnd": "12:00 pm"},
-        {"name": "2nd Workshop", "timeStart": "12:00 pm", "timeEnd": "1:00 pm"},
-        {"name": "Lunch", "timeStart": "1:00 pm", "timeEnd": "2:00 pm"},
-        {"name": "3rd Workshop", "timeStart": "2:00 pm", "timeEnd": "3:00 pm"},
-        {"name": "4th Workshop", "timeStart": "3:00 pm", "timeEnd": "4:00 pm"},
-        {"name": "Dinner", "timeStart": "6:00 pm", "timeEnd": "7:00 pm"},
-        {"name": "Office Hours End", "timeStart": "9:00 pm"}
+        {"name": "Breakfast and Office Hours Start", "timeStart": "2019-02-16T09:00:00", "timeEnd": "2019-02-16T11:00:00"},
+        {"name": "1st Workshop", "timeStart": "2019-02-16T11:00:00", "timeEnd": "2019-02-16T12:00:00"},
+        {"name": "2nd Workshop", "timeStart": "2019-02-16T12:00:00", "timeEnd": "2019-02-16T13:00:00"},
+        {"name": "Lunch", "timeStart": "2019-02-16T13:00:00", "timeEnd": "2019-02-16T14:00:00"},
+        {"name": "3rd Workshop", "timeStart": "2019-02-16T14:00:00", "timeEnd": "2019-02-16T15:00:00"},
+        {"name": "4th Workshop", "timeStart": "2019-02-16T15:00:00", "timeEnd": "2019-02-16T16:00:00"},
+        {"name": "Dinner", "timeStart": "2019-02-16T18:00:00", "timeEnd": "2019-02-16T19:00:00"},
+        {"name": "Office Hours End", "timeStart": "2019-02-16T21:00:00", "timeEnd": ""}
       ]
     },
     {
-      "date": "Sunday, Feb 17th",
+      "date": "2019-02-17",
       "items": [
-        {"name": "Submissions Due", "timeStart": "8:30am"},
-        {"name": "Brunch", "timeStart": "10:30 am", "timeEnd": "12:00 pm"},
-        {"name": "Top 8 Presentations", "timeStart": "12:00 pm", "timeEnd": "3:00 pm"},
-        {"name": "Awards Ceremony", "timeStart": "4:00 pm", "timeEnd": "5:30 pm"}
+        {"name": "Submissions Due", "timeStart": "2019-02-17T08:30:00", "timeEnd": ""},
+        {"name": "Brunch", "timeStart": "2019-02-17T10:30:00", "timeEnd": "2019-02-17T12:00:00"},
+        {"name": "Top 8 Presentations", "timeStart": "2019-02-17T12:00:00", "timeEnd": "2019-02-17T15:00:00"},
+        {"name": "Awards Ceremony", "timeStart": "2019-02-17T16:00:00", "timeEnd": "2019-02-17T17:30:00"}
        
       ]
     }
@@ -51,11 +51,35 @@
 
   "workshop": [
     {
-      "title": "",
-      "date": "",
-      "loc": "",
-      "speaker": {"name": "", "title": ""},
-      "description": ""
+      "iconPath": "https://via.placeholder.com/150",
+      "title": "Trading Strategy",
+      "date": "2018-03-03",
+      "location": "Siebel 1024",
+      "speaker": {"name": "John Doe", "title": "Product Manager"},
+      "description": 
+      "Ergo, si semel tristior effectus est, hilara vita amissa est? Videsne quam sit magna dissensio? At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia? Sed vobis voluptatum perceptarum recordatio vitam beatam facit, et quidem corpore perceptarum. Nam si amitti vita beatapotest, beata esse non potest. Conferam tecum, quam cuique verso rem subicias; "
+    },
+    {
+      "iconPath": "https://via.placeholder.com/150",
+      "title": "Trading Strategy",
+      "date": "2018-03-03",
+      "location": "Siebel 1024",
+      "speaker": {
+        "name": "John Doe",
+        "title": "Product Manager"
+      },
+      "description": "Ergo, si semel tristior effectus est, hilara vita amissa est? Videsne quam sit magna dissensio? At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia? Sed vobis voluptatum perceptarum recordatio vitam beatam facit, et quidem corpore perceptarum. Nam si amitti vita beatapotest, beata esse non potest. Conferam tecum, quam cuique verso rem subicias; "
+    },
+    {
+      "iconPath": "https://via.placeholder.com/150",
+      "title": "Trading Strategy",
+      "date": "2018-03-03",
+      "location": "Siebel 1024",
+      "speaker": {
+        "name": "John Doe",
+        "title": "Product Manager"
+      },
+      "description": "Ergo, si semel tristior effectus est, hilara vita amissa est? Videsne quam sit magna dissensio? At quicum ioca seria, ut dicitur, quicum arcana, quicum occulta omnia? Sed vobis voluptatum perceptarum recordatio vitam beatam facit, et quidem corpore perceptarum. Nam si amitti vita beatapotest, beata esse non potest. Conferam tecum, quam cuique verso rem subicias; "
     }
   ],
 
